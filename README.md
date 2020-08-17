@@ -1,7 +1,7 @@
 # Love Running Walkthrough project
 
 link to webpage:
-<a href="https://robot5000-design.github.io/love-running/" target="_blank">Project Link</a>
+https://robot5000-design.github.io/love-running/
 
 
 
