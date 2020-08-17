@@ -1,6 +1,13 @@
-<img src="https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png" style="margin: 0;">
+# Love Running Walkthrough project
 
-Welcome USER_NAME,
+link to webpage:
+https://robot5000-design.github.io/love-running/
+
+
+
+
+
+Welcome robot5000-design,
 
 This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project.
 
